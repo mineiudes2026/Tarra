@@ -123,10 +123,8 @@ Las fotos y videos de los eventos pertenecen a la Institución Educativa Rural S
 
 <div align="center">
 
-<img src="docs/logo-ing-carlos.png" alt="Logo de Ing. Carlos" width="150" />
+<img src="docs/logo-ing-carlos.png" alt="Logo" width="150" />
 
-**Desarrollado por Ing. Carlos**
-
-<sub>Logo diseñado por <b>Esp. Lisney Tatiana Álvarez Acevedo</b></sub>
+**Desarrollado por Esp. Lisney Tatiana Álvarez Acevedo**
 
 </div>
