@@ -31,11 +31,12 @@ Cada evento tiene su propia galería de fotos y, cuando existen, los videos publ
 ## ✨ Qué encuentras en la página
 
 - 🎬 **Portada de la sede** con slider de fotos (se puede pausar) y video de la institución con control de sonido.
-- 🗂️ **33 eventos** del año escolar 2026 con **más de 470 fotos** y **23 videos** de TikTok.
+- 🗂️ **33 eventos** del año escolar 2026 con **450 fotos** y **23 videos** de TikTok.
 - 🔎 **Buscador de eventos** y **filtro por categoría**.
-- 🖼️ **Visor de fotos** por evento: anterior / siguiente con botones o con las flechas del teclado, y `Esc` para cerrar.
+- 🖼️ **Visor de fotos** por evento: anterior / siguiente con botones, con las flechas del teclado o deslizando con el dedo, tira de miniaturas y `Esc` para cerrar.
+- 🔗 **Enlace directo a cada evento** (`#evento/<id>`) para compartirlo.
 - 📱 **Diseño adaptable**, con menú para celular e imágenes livianas en formato WebP (cada foto tiene su miniatura).
-- 🔗 Enlaces a las redes oficiales de la institución.
+- 📣 Enlaces a las redes oficiales de la institución.
 
 ## 🗓️ Eventos publicados
 
@@ -88,7 +89,7 @@ Tarra/
 │   ├── logo-icono.png  → Ícono de la pestaña del navegador
 │   ├── sede/           → Fotos del slider y video de la sede
 │   └── eventos/
-│       └── <evento>/   → Fotos de cada evento
+│       └── <evento>/   → Fotos de cada evento y portadas de sus videos
 │           └── mini/   → Miniaturas para cargar más rápido
 ├── docs/               → Imágenes de este README
 └── vercel.json         → Encabezados de seguridad y caché para Vercel
