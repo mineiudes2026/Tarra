@@ -126,6 +126,6 @@ Las fotos y videos de los eventos pertenecen a la Institución Educativa Rural S
 
 **Desarrollado por Ing. Carlos**
 
-<sub>Logo diseñado por <b>Lisney Tatiana Acevedo</b></sub>
+<sub>Logo diseñado por <b>Esp. Lisney Tatiana Álvarez Acevedo</b></sub>
 
 </div>
